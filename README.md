@@ -1,5 +1,5 @@
 # Color-Stack-Solitaire
-**Color Stack Solitaire** is a card game similar to Solitaire. Players must arrange cards by color, starting from 10 and stacking up to 12 within their respective color groups. The game offers a fun and strategic challenge based on color coordination.
+**Color Stack Solitaire** is a card game similar to Solitaire. Players must arrange cards by color, starting from 1 and stacking up to 12 within their respective color groups. The game offers a fun and strategic challenge based on color coordination.
 ![Ekran görüntüsü 2024-09-05 220336](https://github.com/user-attachments/assets/c5eb5922-4b80-4494-b65d-bf6f91fd2386)
 
 ## Features
