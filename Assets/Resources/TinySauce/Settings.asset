@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 962c909b5f2a0a3843ec32495afb45d1
+  gameAnalyticsIosSecretKey: 650ec2f1c33ab0cc9aa68557526b06d276015114
+  gameAnalyticsAndroidGameKey: 3a2a427396257f7bad7c6a0283a78a8a
+  gameAnalyticsAndroidSecretKey: 4ae7ab3c5937963c00681c878b6d12b3bb2ed2d9
+  facebookAppId: 6152118861533716
+  facebookClientToken: 728aefe0818c5760e0491a25e36644db
+  adjustIOSToken: muw6wq00fbi8
+  adjustAndroidToken: k7iw0jognjsw
+  EditorIdfa: 1cdbf9ab-8456-4b71-8fe4-7b950269fee7
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: Gamina
+  privacyPolicyURL: https://cardsout.gaminatechnology.com/privacypolicy.html
+  developerContactEmail: cihaty@gaminatechnology.com
