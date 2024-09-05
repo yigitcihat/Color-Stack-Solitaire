@@ -16,3 +16,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/username/color-stack-solitaire.git
+
+
+https://github.com/user-attachments/assets/75841dc9-1b96-4d5b-bdc6-89dc96412b13
+
